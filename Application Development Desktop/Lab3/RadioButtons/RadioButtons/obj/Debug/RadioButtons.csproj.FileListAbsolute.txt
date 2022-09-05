@@ -1,0 +1,10 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\RadioButtons\RadioButtons\bin\Debug\RadioButtons.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\RadioButtons\RadioButtons\bin\Debug\RadioButtons.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\RadioButtons\RadioButtons\bin\Debug\RadioButtons.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\RadioButtons\RadioButtons\obj\Debug\RadioButtons.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\RadioButtons\RadioButtons\obj\Debug\RadioButtons.Form1.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\RadioButtons\RadioButtons\obj\Debug\RadioButtons.Properties.Resources.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\RadioButtons\RadioButtons\obj\Debug\RadioButtons.csproj.GenerateResource.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\RadioButtons\RadioButtons\obj\Debug\RadioButtons.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\RadioButtons\RadioButtons\obj\Debug\RadioButtons.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\RadioButtons\RadioButtons\obj\Debug\RadioButtons.pdb

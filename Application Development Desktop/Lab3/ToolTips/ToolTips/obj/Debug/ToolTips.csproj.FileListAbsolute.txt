@@ -1,0 +1,10 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\ToolTips\ToolTips\bin\Debug\ToolTips.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\ToolTips\ToolTips\bin\Debug\ToolTips.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\ToolTips\ToolTips\bin\Debug\ToolTips.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\ToolTips\ToolTips\obj\Debug\ToolTips.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\ToolTips\ToolTips\obj\Debug\ToolTips.Form1.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\ToolTips\ToolTips\obj\Debug\ToolTips.Properties.Resources.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\ToolTips\ToolTips\obj\Debug\ToolTips.csproj.GenerateResource.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\ToolTips\ToolTips\obj\Debug\ToolTips.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\ToolTips\ToolTips\obj\Debug\ToolTips.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\ToolTips\ToolTips\obj\Debug\ToolTips.pdb
