@@ -1,0 +1,10 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Keyboard-Event\Keyboard-Event\bin\Debug\Keyboard-Event.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Keyboard-Event\Keyboard-Event\bin\Debug\Keyboard-Event.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Keyboard-Event\Keyboard-Event\bin\Debug\Keyboard-Event.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Keyboard-Event\Keyboard-Event\obj\Debug\Keyboard-Event.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Keyboard-Event\Keyboard-Event\obj\Debug\Keyboard_Event.KeyDemo.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Keyboard-Event\Keyboard-Event\obj\Debug\Keyboard_Event.Properties.Resources.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Keyboard-Event\Keyboard-Event\obj\Debug\Keyboard-Event.csproj.GenerateResource.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Keyboard-Event\Keyboard-Event\obj\Debug\Keyboard-Event.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Keyboard-Event\Keyboard-Event\obj\Debug\Keyboard-Event.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Keyboard-Event\Keyboard-Event\obj\Debug\Keyboard-Event.pdb

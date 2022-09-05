@@ -1,0 +1,10 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Multiple Buttons\Multiple Buttons\bin\Debug\Multiple Buttons.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Multiple Buttons\Multiple Buttons\bin\Debug\Multiple Buttons.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Multiple Buttons\Multiple Buttons\bin\Debug\Multiple Buttons.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple_Buttons.Form1.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple_Buttons.Properties.Resources.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.csproj.GenerateResource.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.pdb

@@ -1,0 +1,10 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Mouse-Event\Mouse-Event\bin\Debug\Mouse-Event.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Mouse-Event\Mouse-Event\bin\Debug\Mouse-Event.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Mouse-Event\Mouse-Event\bin\Debug\Mouse-Event.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Mouse-Event\Mouse-Event\obj\Debug\Mouse-Event.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Mouse-Event\Mouse-Event\obj\Debug\Mouse_Event.PainterForm.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Mouse-Event\Mouse-Event\obj\Debug\Mouse_Event.Properties.Resources.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Mouse-Event\Mouse-Event\obj\Debug\Mouse-Event.csproj.GenerateResource.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Mouse-Event\Mouse-Event\obj\Debug\Mouse-Event.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Mouse-Event\Mouse-Event\obj\Debug\Mouse-Event.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Mouse-Event\Mouse-Event\obj\Debug\Mouse-Event.pdb

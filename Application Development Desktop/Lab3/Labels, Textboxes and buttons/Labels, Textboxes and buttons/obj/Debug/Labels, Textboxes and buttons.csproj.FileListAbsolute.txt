@@ -1,0 +1,10 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Labels, Textboxes and buttons\Labels, Textboxes and buttons\bin\Debug\Labels, Textboxes and buttons.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Labels, Textboxes and buttons\Labels, Textboxes and buttons\bin\Debug\Labels, Textboxes and buttons.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Labels, Textboxes and buttons\Labels, Textboxes and buttons\bin\Debug\Labels, Textboxes and buttons.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Labels, Textboxes and buttons\Labels, Textboxes and buttons\obj\Debug\Labels, Textboxes and buttons.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Labels, Textboxes and buttons\Labels, Textboxes and buttons\obj\Debug\Labels__Textboxes_and_buttons.Form1.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Labels, Textboxes and buttons\Labels, Textboxes and buttons\obj\Debug\Labels__Textboxes_and_buttons.Properties.Resources.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Labels, Textboxes and buttons\Labels, Textboxes and buttons\obj\Debug\Labels, Textboxes and buttons.csproj.GenerateResource.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Labels, Textboxes and buttons\Labels, Textboxes and buttons\obj\Debug\Labels, Textboxes and buttons.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Labels, Textboxes and buttons\Labels, Textboxes and buttons\obj\Debug\Labels, Textboxes and buttons.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Labels, Textboxes and buttons\Labels, Textboxes and buttons\obj\Debug\Labels, Textboxes and buttons.pdb
