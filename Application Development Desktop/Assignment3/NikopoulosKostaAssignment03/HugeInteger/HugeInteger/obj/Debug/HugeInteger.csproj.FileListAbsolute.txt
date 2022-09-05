@@ -1,0 +1,10 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment03\HugeInteger\HugeInteger\bin\Debug\HugeInteger.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment03\HugeInteger\HugeInteger\bin\Debug\HugeInteger.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment03\HugeInteger\HugeInteger\bin\Debug\HugeInteger.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment03\HugeInteger\HugeInteger\obj\Debug\HugeInteger.HugeIntegerCalculator.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment03\HugeInteger\HugeInteger\obj\Debug\HugeInteger.Properties.Resources.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment03\HugeInteger\HugeInteger\obj\Debug\HugeInteger.csproj.GenerateResource.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment03\HugeInteger\HugeInteger\obj\Debug\HugeInteger.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment03\HugeInteger\HugeInteger\obj\Debug\HugeInteger.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment03\HugeInteger\HugeInteger\obj\Debug\HugeInteger.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment03\HugeInteger\HugeInteger\obj\Debug\HugeInteger.csproj.AssemblyReference.cache
