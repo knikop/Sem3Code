@@ -1,0 +1,10 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Hello World\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Hello World\Hello World\obj\Debug\Hello World.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Hello World\Hello World\obj\Debug\Hello_World.button.resources

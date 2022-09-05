@@ -1,0 +1,10 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Groupboxes and Panels\Groupboxes and Panels\bin\Debug\Groupboxes and Panels.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Groupboxes and Panels\Groupboxes and Panels\bin\Debug\Groupboxes and Panels.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Groupboxes and Panels\Groupboxes and Panels\bin\Debug\Groupboxes and Panels.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Groupboxes and Panels\Groupboxes and Panels\obj\Debug\Groupboxes and Panels.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Groupboxes and Panels\Groupboxes and Panels\obj\Debug\Groupboxes_and_Panels.Form1.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Groupboxes and Panels\Groupboxes and Panels\obj\Debug\Groupboxes_and_Panels.Properties.Resources.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Groupboxes and Panels\Groupboxes and Panels\obj\Debug\Groupboxes and Panels.csproj.GenerateResource.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Groupboxes and Panels\Groupboxes and Panels\obj\Debug\Groupboxes and Panels.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Groupboxes and Panels\Groupboxes and Panels\obj\Debug\Groupboxes and Panels.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Groupboxes and Panels\Groupboxes and Panels\obj\Debug\Groupboxes and Panels.pdb
