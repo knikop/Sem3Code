@@ -1,0 +1,7 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\Lab2\Lab2\obj\Debug\Lab2.pdb

@@ -1,0 +1,7 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\LINQWithListCollection\LINQWithListCollection\bin\Debug\LINQWithListCollection.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\LINQWithListCollection\LINQWithListCollection\bin\Debug\LINQWithListCollection.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\LINQWithListCollection\LINQWithListCollection\bin\Debug\LINQWithListCollection.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\LINQWithListCollection\LINQWithListCollection\obj\Debug\LINQWithListCollection.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\LINQWithListCollection\LINQWithListCollection\obj\Debug\LINQWithListCollection.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\LINQWithListCollection\LINQWithListCollection\obj\Debug\LINQWithListCollection.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\LINQWithListCollection\LINQWithListCollection\obj\Debug\LINQWithListCollection.pdb

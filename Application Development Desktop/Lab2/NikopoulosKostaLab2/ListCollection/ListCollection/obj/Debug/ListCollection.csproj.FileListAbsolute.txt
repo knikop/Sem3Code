@@ -1,0 +1,7 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\ListCollection\ListCollection\bin\Debug\ListCollection.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\ListCollection\ListCollection\bin\Debug\ListCollection.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\ListCollection\ListCollection\bin\Debug\ListCollection.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\ListCollection\ListCollection\obj\Debug\ListCollection.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\ListCollection\ListCollection\obj\Debug\ListCollection.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\ListCollection\ListCollection\obj\Debug\ListCollection.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab2\ListCollection\ListCollection\obj\Debug\ListCollection.pdb
