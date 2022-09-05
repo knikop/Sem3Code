@@ -1,0 +1,14 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HealthProfile\HealthProfile\bin\Debug\HealthProfile.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HealthProfile\HealthProfile\bin\Debug\HealthProfile.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HealthProfile\HealthProfile\bin\Debug\HealthProfile.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HealthProfile\HealthProfile\obj\Debug\HealthProfile.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HealthProfile\HealthProfile\obj\Debug\HealthProfile.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HealthProfile\HealthProfile\obj\Debug\HealthProfile.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HealthProfile\HealthProfile\obj\Debug\HealthProfile.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HealthProfile\HealthProfile\bin\Debug\HealthProfile.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HealthProfile\HealthProfile\bin\Debug\HealthProfile.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HealthProfile\HealthProfile\bin\Debug\HealthProfile.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HealthProfile\HealthProfile\obj\Debug\HealthProfile.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HealthProfile\HealthProfile\obj\Debug\HealthProfile.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HealthProfile\HealthProfile\obj\Debug\HealthProfile.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HealthProfile\HealthProfile\obj\Debug\HealthProfile.pdb

@@ -1,0 +1,7 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment02\Person-Inheritance-Hierarchy\Person-Inheritance-Hierarchy\bin\Debug\Person-Inheritance-Hierarchy.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment02\Person-Inheritance-Hierarchy\Person-Inheritance-Hierarchy\bin\Debug\Person-Inheritance-Hierarchy.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment02\Person-Inheritance-Hierarchy\Person-Inheritance-Hierarchy\bin\Debug\Person-Inheritance-Hierarchy.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment02\Person-Inheritance-Hierarchy\Person-Inheritance-Hierarchy\obj\Debug\Person-Inheritance-Hierarchy.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment02\Person-Inheritance-Hierarchy\Person-Inheritance-Hierarchy\obj\Debug\Person-Inheritance-Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment02\Person-Inheritance-Hierarchy\Person-Inheritance-Hierarchy\obj\Debug\Person-Inheritance-Hierarchy.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment02\Person-Inheritance-Hierarchy\Person-Inheritance-Hierarchy\obj\Debug\Person-Inheritance-Hierarchy.pdb

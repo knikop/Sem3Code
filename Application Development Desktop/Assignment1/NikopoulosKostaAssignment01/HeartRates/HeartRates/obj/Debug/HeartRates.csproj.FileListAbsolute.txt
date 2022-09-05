@@ -1,0 +1,14 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HeartRates\HeartRates\obj\Debug\HeartRates.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HeartRates\HeartRates\obj\Debug\HeartRates.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HeartRates\HeartRates\bin\Debug\HeartRates.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HeartRates\HeartRates\bin\Debug\HeartRates.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HeartRates\HeartRates\bin\Debug\HeartRates.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HeartRates\HeartRates\obj\Debug\HeartRates.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKosta-Assignment1\HeartRates\HeartRates\obj\Debug\HeartRates.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HeartRates\HeartRates\bin\Debug\HeartRates.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HeartRates\HeartRates\bin\Debug\HeartRates.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HeartRates\HeartRates\bin\Debug\HeartRates.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HeartRates\HeartRates\obj\Debug\HeartRates.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HeartRates\HeartRates\obj\Debug\HeartRates.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HeartRates\HeartRates\obj\Debug\HeartRates.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaAssignment01\HeartRates\HeartRates\obj\Debug\HeartRates.pdb
