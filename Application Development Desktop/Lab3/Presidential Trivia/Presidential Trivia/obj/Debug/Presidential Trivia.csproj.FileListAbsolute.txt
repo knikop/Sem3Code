@@ -1,0 +1,9 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.Form1.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.Properties.Resources.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.GenerateResource.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.pdb

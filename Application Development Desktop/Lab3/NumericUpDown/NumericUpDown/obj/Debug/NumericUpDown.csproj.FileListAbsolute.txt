@@ -1,0 +1,10 @@
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.AssemblyReference.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.NumericUpDownTest.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Properties.Resources.resources
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.GenerateResource.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.CoreCompileInputs.cache
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.pdb
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.exe
+C:\Users\darth\OneDrive\Desktop\NikopoulosKostaLab03\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.pdb
